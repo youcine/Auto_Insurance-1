@@ -1,2 +1,2 @@
 # Auto_Insurance
- A 15-week project during my internship with the ATC Innovatics Center for Data Science and AI working at an auto insurance company facing a fraud challenge.
+The internship project with the ATC Innovatics Center for Data Science and AI working at an auto insurance company facing a fraud challenge. We increased the fraud detection rate from 70% to 90% and discovered the dominant pattern in fraud operations using models like RF.
